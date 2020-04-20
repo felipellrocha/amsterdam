@@ -6,3 +6,5 @@ edition = "2018"
 
 [dependencies]
 uuid = { version = "0.8.1", features = ["serde", "v4"] }
+chrono = "0.4.11"
+crypto-hash = "0.3.4"
